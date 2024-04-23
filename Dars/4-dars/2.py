@@ -1,0 +1,11 @@
+a="anvariddinabdusaminov"
+print(a[1]+a[0]+a[2]+a[19])
+print(a[19]+a[18]+a[0])
+print(a[7:10])
+print(a[:5])
+print(a[:10])
+print(a[10:19])
+print(a[1]+a[13]+a[4])
+print(a[:2]+a[0])
+print(a[14]+a[0]+a[16]+a[19])
+print(a[7]+a[0]+a[7]+a[0])

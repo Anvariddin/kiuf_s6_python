@@ -1,0 +1,6 @@
+print((1 > 3) or (4 < 0))
+print(not (5 > 6))
+print(not (6 > 5))
+print((2 == 0) or (2 < 2)or(2>2) )
+print((2 == 0) and (2 > 0))
+print((3 > 0) or (2 > 0))

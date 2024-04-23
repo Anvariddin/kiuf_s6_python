@@ -1,0 +1,11 @@
+a="G`ulomovBekjon"
+print(a[:6])
+print(a[8:])
+print(a[8:11])
+print(a[11:])
+print(a[10]+a[12:])
+print(a[0]+a[2:4])
+print(a[13]+a[12]+a[13])
+print(a[2:5]+a[7])
+print(a[11:]+a[12:])
+print(a[10]+a[9]+a[3])

@@ -1,0 +1,8 @@
+Kirish: fanning masad va vazifalari
+Reja
+1. Python dasturlash tili haqida  umumiy ma'lumotlar va resurslar
+2. Python dasturlash tilini versiyalari, o'rnatish  va sozlash
+3. Python dasturlash tilida dasturlashni boshlash
+
+Python dasturlash tili Gollandiyaning matematika va informatika markazi nomli CWI institutida Vidl Van Rosson tomonidan Paskal ABC tilidan ilhomlanib yozilgan. dasturlni nomlanishi hech qanday ilon nomi bilan bog'liq emas. Balki muallifning 70- yillarda mashxur bo'lgan sevimli teleshovi Manda Python uchuvchi sirki nomiga qo'yilgan. 
+Python dasturlash tili rasman 1991-yil 20- fevraldan tan olingan va bugunga qadar uning 13ta versiyasi ishlab chiqarilgan. 

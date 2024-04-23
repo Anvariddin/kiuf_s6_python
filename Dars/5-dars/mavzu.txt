@@ -1,0 +1,3 @@
+Vazifa: Py da mantiqiy dasturlar tuzish
+
+mantiqiy dasturlarni tuzish u/n taqqoslash amalardan foydalaniladi.
